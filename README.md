@@ -5,6 +5,10 @@
 # Summary
 This code is for the [FIRST Robotics Competition (FRC)](http://www.firstinspires.org/robotics/frc) 2015 game: Recyle Rush. For more information on our team please chekout our website (<http://www.frcteam3255.com/>)
 
+## Programmers:
+[Tayler Uva](http://Tayler.Tech)
+[Tyler Warren](https://github.com/Tyfighter98)
+
 # Awards and Accomplishments
 Innovation in Control Award
 
