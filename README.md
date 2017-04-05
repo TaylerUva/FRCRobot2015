@@ -7,6 +7,7 @@ This code is for the [FIRST Robotics Competition (FRC)](http://www.firstinspires
 
 ## Programmers:
 [Tayler Uva](http://Tayler.Tech)
+
 [Tyler Warren](https://github.com/Tyfighter98)
 
 # Awards and Accomplishments
